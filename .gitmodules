@@ -1,0 +1,3 @@
+[submodule "fiverr-ui"]
+	path = fiverr-ui
+	url = https://github.com/nitinshk/fiver-ui.git
